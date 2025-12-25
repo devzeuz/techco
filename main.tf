@@ -1,3 +1,0 @@
-module "infrastructure"{
-    source = "./infrastructure"
-}
