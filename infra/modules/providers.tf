@@ -4,7 +4,7 @@ provider "aws" {
 
 terraform {
   cloud {
-    organization = "practice-lab-3tier"
+    organization = "practice-lab-"
 
     workspaces {
       name = "techco"
